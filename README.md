@@ -4,7 +4,7 @@
 |----------|----------|
 | Email  | yuulin.an@colostate.edu  | 
 | Office  | Clark C309A  | 
-|Office Hours | TR 2:00 - 3:30 PM or by appointment|
+|Office Hours | TR 3:15 - 4:45 PM or by appointment|
 
 ### Course Description & Objectives
 
